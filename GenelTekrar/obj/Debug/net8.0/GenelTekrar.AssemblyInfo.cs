@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenelTekrar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b51f3f6f39df4ac9e5eac882ccbd5f69f836978")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adbb6069aabee8b080bb08a30183c273af75c44d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenelTekrar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenelTekrar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
