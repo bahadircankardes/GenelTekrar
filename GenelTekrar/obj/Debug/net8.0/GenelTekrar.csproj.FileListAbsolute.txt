@@ -12,3 +12,4 @@
 /Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/GenelTekrar.pdb
 /Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/GenelTekrar.genruntimeconfig.cache
 /Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/ref/GenelTekrar.dll
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/GenelTekrar.sourcelink.json
