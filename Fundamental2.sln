@@ -5,18 +5,29 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenelTekrar", "GenelTekrar\GenelTekrar.csproj", "{B0DCFB43-C427-4763-987C-4457A27185FD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deneme", "Deneme", "{E4A46015-6065-442B-824F-F08B9A2E7C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{09D4A29A-394D-4FB2-B18A-60E2C621D7F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B0DCFB43-C427-4763-987C-4457A27185FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B0DCFB43-C427-4763-987C-4457A27185FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0DCFB43-C427-4763-987C-4457A27185FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0DCFB43-C427-4763-987C-4457A27185FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D4A29A-394D-4FB2-B18A-60E2C621D7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D4A29A-394D-4FB2-B18A-60E2C621D7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D4A29A-394D-4FB2-B18A-60E2C621D7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D4A29A-394D-4FB2-B18A-60E2C621D7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{09D4A29A-394D-4FB2-B18A-60E2C621D7F1} = {E4A46015-6065-442B-824F-F08B9A2E7C2F}
 	EndGlobalSection
 EndGlobal

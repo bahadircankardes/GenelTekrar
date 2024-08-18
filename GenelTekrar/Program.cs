@@ -6,7 +6,9 @@ int gun = int.Parse(Console.ReadLine());
 
 var sonuc = GunuBil(gun);
 Console.WriteLine(sonuc);
-Console.ReadLine(); 
+Console.ReadLine();
+
+ 
 
 static string GunuBil(int gun)
     {
