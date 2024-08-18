@@ -1,0 +1,14 @@
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/bin/Debug/net8.0/GenelTekrar
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/bin/Debug/net8.0/GenelTekrar.deps.json
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/bin/Debug/net8.0/GenelTekrar.runtimeconfig.json
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/bin/Debug/net8.0/GenelTekrar.dll
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/bin/Debug/net8.0/GenelTekrar.pdb
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/GenelTekrar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/GenelTekrar.AssemblyInfoInputs.cache
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/GenelTekrar.AssemblyInfo.cs
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/GenelTekrar.csproj.CoreCompileInputs.cache
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/GenelTekrar.dll
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/refint/GenelTekrar.dll
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/GenelTekrar.pdb
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/GenelTekrar.genruntimeconfig.cache
+/Users/bahadircankardes/source/repos/Wissen2024/Fundamental2/GenelTekrar/GenelTekrar/obj/Debug/net8.0/ref/GenelTekrar.dll
